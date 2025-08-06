@@ -2,6 +2,11 @@
 
 An ML-powered system for tracking satellites and predicting potential collisions using real NORAD TLE data. This project demonstrates advanced space situational awareness capabilities relevant to companies like SpaceX, NASA, and Lockheed Martin.
 
+<img width="1756" height="897" alt="image" src="https://github.com/user-attachments/assets/a48cf4e1-40ef-46c7-86c9-ade768cafbe4" />
+<img width="1566" height="807" alt="image" src="https://github.com/user-attachments/assets/6af3c0bc-3a46-4ba1-b552-8c92ae0e449b" />
+<img width="1523" height="707" alt="image" src="https://github.com/user-attachments/assets/5f706661-b999-429d-9371-acb8d87b79f8" />
+
+
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13.0-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
