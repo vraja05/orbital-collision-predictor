@@ -1,0 +1,47 @@
+# Core scientific computing
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.1
+
+# Machine Learning
+scikit-learn==1.3.0
+tensorflow==2.13.0
+torch==2.0.1
+
+# Orbital mechanics
+sgp4==2.22
+skyfield==1.46
+astropy==5.3
+
+# Data fetching and processing
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Visualization
+matplotlib==3.7.2
+plotly==5.15.0
+seaborn==0.12.2
+ipywidgets==8.1.0
+
+# Dashboard
+streamlit==1.25.0
+dash==2.11.1
+
+# Development tools
+jupyter==1.0.0
+notebook==7.0.0
+pytest==7.4.0
+black==23.7.0
+flake8==6.1.0
+
+# Data storage
+h5py==3.9.0
+joblib==1.3.1
+
+# Progress bars
+tqdm==4.65.0
+
+# Configuration
+python-dotenv==1.0.0
+pyyaml==6.0.1
