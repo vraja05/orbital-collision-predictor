@@ -8,7 +8,9 @@ An ML-powered system for tracking satellites and predicting potential collisions
 
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13.0-orange.svg)
+
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 🌟 Key Features
